@@ -2,6 +2,7 @@
 考二级做题的时候写的代码 总之先不管三七二十一丢上来  
 ```  
 git add .
+git pull
 git commit -m "update"
 git push
 
